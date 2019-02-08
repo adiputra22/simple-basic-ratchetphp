@@ -1,0 +1,19 @@
+{
+    "name": "adiputra/rachetphp-test",
+    "description": "rachetphp testing",
+    "require": {
+        "cboden/ratchet": "^0.4.1",
+        "react/zmq": "0.2.*|0.3.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Adiputra\\Rachetphp\\": "src"
+        }
+    },
+    "authors": [
+        {
+            "name": "Adiputra",
+            "email": "tuts.adiputra@gmail.com"
+        }
+    ]
+}
